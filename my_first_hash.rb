@@ -16,15 +16,6 @@ the_manifest = {
   "porcelain vases": 2,
   "oil paintings": 3
 }
- 
-puts shipping_manifest
-# {
-#   "whale bone corset" => 5,
-#   "porcelain vase" => 2,
-#   "oil painting" => 3,
-#   "jar of molasses" => 10
-# }
-
 
 end
 
